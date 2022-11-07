@@ -1,0 +1,4 @@
+{
+    "testRepo": "favourite-song-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
